@@ -22,16 +22,6 @@ body {
   color: #fff;
   position: sticky;
   top: 0;
-
-  /* Logo image styling */
-  .logo img {
-    height: 50px;
-    /* image ki height fix kar do */
-    width: auto;
-    /* width auto rakho taaki image stretch na ho */
-    display: block;
-    /* extra gap remove karega */
-  }
 }
 
 .nav-links {
